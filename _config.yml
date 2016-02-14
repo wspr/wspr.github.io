@@ -26,3 +26,8 @@ markdown: kramdown
 # Outputting
 permalink:     /:categories/:title
 
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:path
