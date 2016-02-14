@@ -100,6 +100,11 @@ The Development of a 6 Degree of Freedom Quasi-zero Stiffness Maglev Vibration I
 
 #       2010
 
+[Unicode mathematics in LaTeX: Advantages and challenges](http://www.tug.org/TUGboat/Articles/tb31-2/tb98robertson.pdf)
+
+* Will Robertson
+* TUGboat 2010 vol. 31 no. 2
+
 [Maximising the force between two cuboid magnets](http://personal.mecheng.adelaide.edu.au/will.robertson/research/2010-magratios.pdf) (pdf)
 
 * Will Robertson, Ben Cazzolato, Anthony Zander
@@ -125,6 +130,11 @@ The Development of a 6 Degree of Freedom Quasi-zero Stiffness Maglev Vibration I
 * Journal of Sound and Vibration
 * DOI: [10.1016/j.jsv.2009.04.015](http://dx.doi.org/10.1016/j.jsv.2009.04.015)
 
+[Peter Wilson's Herries Press packages](http://www.tug.org/TUGboat/Articles/tb30-2/tb95robertson.pdf)
+
+* Will Robertson
+* TUGboat 2009 vol. 30 no. 2
+
 # 2007
 
 ICSV14 conference in Cairns, Australia
@@ -141,6 +151,16 @@ Active 2006 conference in Adelaide, Australia
 * Will Robertson, Rohin Wood, Ben Cazzolato, Anthony Zander
 * [Slides](http://personal.mecheng.adelaide.edu.au/will.robertson/research/active2006-slides.pdf) (pdf)
 
+[Productivity with macros and packages](http://tug.org/pracjourn/2006-3/robertson/)
+
+* Will Robertson
+* The PracTeX Journal 2006 no. 3
+
+[An exploration of the Latin Modern fonts](http://tug.org/pracjourn/2006-1/robertson/)
+
+* Will Robertson
+* The PracTeX Journal 2006 no. 1
+
 # 2005
 
 InterMag 2005 conference in Nagoya, Japan
@@ -148,6 +168,16 @@ InterMag 2005 conference in Nagoya, Japan
 * [A Multipole Array Magnetic Spring](http://personal.mecheng.adelaide.edu.au/will.robertson/research/robertson2005-intermag.pdf) (pdf)
 * Will Robertson, Ben Cazzolato, Anthony Zander
 * [Slides](http://personal.mecheng.adelaide.edu.au/will.robertson/research/intermag2005-slides.pdf) (pdf)
+
+[Advanced font features with XeTeX: the fontspec package](http://tug.org/TUGboat/Articles/tb26-3/tb84robertson.pdf)
+
+* Will Robertson
+* TUGboat 2005 vol. 26 no. 3
+
+[Square cells: an array cooking lesson](http://tug.org/pracjourn/2005-2/robertson/)
+
+* Will Robertson
+* The PracTeX Journal 2005 no. 2
 
 # 2004
 
