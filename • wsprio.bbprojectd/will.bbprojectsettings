@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmbeddedEditorHidden:will</key>
+	<false/>
+	<key>ExpandedEditorWidth:will:displays([(0, 0), (1440, 900)])</key>
+	<integer>849</integer>
+	<key>ExpandedItems:will</key>
+	<array>
+		<string>EE8F081A-C9F6-4543-AFEC-C46846A4F99D</string>
+		<string>45698693-182D-47F3-94B5-3F507011FBC9</string>
+		<string>96280FD4-4133-4339-909B-0E7A40A1F83B</string>
+		<string>CA8CA1AC-8375-4715-801F-5740911B3226</string>
+	</array>
+	<key>FileFilterMode:will</key>
+	<integer>0</integer>
+	<key>OpenDocuments:will</key>
+	<array/>
+	<key>OpenDocumentsExpanded</key>
+	<true/>
+	<key>OpenDocumentsSplitterProportion</key>
+	<real>0.83981692790985107</real>
+	<key>ProjectItemsExpanded</key>
+	<true/>
+	<key>ProjectViewVisible</key>
+	<true/>
+	<key>RecentItems:will</key>
+	<array/>
+	<key>ScratchpadItemsExpanded</key>
+	<true/>
+	<key>ScratchpadItemsVisible</key>
+	<true/>
+	<key>ShowSCMData:will</key>
+	<false/>
+	<key>ToolbarVisible:will</key>
+	<true/>
+	<key>ViewSplitterPosition:will</key>
+	<real>0.19296577572822571</real>
+	<key>WindowFrame:will:displays([(0, 0), (1440, 900)])</key>
+	<string>rect(22,88,896,1140)</string>
+</dict>
+</plist>
