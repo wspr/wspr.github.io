@@ -28,6 +28,6 @@ permalink:     /:categories/:title
 
 # Collections
 collections:
-  pages:
+  page:
     output: true
     permalink: /:path
