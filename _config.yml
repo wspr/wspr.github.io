@@ -24,4 +24,10 @@ github_username:  wspr
 markdown: kramdown
 
 # Outputting
-permalink:     /posts/:title
+permalink:     /:categories/:title
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:path
