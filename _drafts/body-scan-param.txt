@@ -1,0 +1,6 @@
+Title: Body segment parameters
+
+
+3D body scans: <10.1016/j.apergo.2010.07.005>
+
+CT scans: <10.1016/0021-9290(83)90006-4>

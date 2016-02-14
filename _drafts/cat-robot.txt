@@ -1,0 +1,14 @@
+Title:				Cat robots
+
+# Cat robots
+
+In 2013 I initiated an honours project to build a cat robot that could land on its feet when dropped from an upside-down position.
+(Progress is going well at time of writing.)
+
+Science Daily has a write-up on a bio-mimic [walking cat robot](http://www.sciencedaily.com/releases/2013/06/130617104608.htm) (with obligatory [YouTube video](http://www.youtube.com/watch?feature=player_embedded&v=UWlzMIl7E48)).
+Haven't read the paper yet but the shock-absorbing legs look nicely done.
+I don't have much opinion yet on artificial muscles; it seems a shame to stick to the old motors'n'gears approach (which is what we've done for our own cat), but it doesn't seem like anything more `realistic' is useable yet.
+
+`Cheetah' is a [similar robot by Boston Dynamics](http://bostondynamics.com/robot_cheetah.html) that can outrun Usain Bolt. Fastest legged robot, they say. 
+
+Stay tuned.
