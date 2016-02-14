@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Bones and organs, and everything else, in Matlab"
+date:   2013-05-09 13:08:42 +1030
+categories: matlab
+---
+
+<p>I've recently been interested human body modelling in biomechanics. One of the honours projects I'm supervising has a goal of producing a mock lumbar spine, which lead us to a <a title="BodyParts3D Lumbar Vertebrae" href="http://www.thingiverse.com/thing:31845">Thingiverse example</a> of exactly that (our will have additional features for attaching fake ligaments and disks, however).</p><p>This example linked to the BodyParts3D project, which consists of thousands of 3D models taken from MRI data hand-segmented and manually augmented where necessary using known anatomical information (documented in <a href="http://dx.doi.org/10.1093/nar/gkn613">their paper</a>).</p><p>The project consists of an online <a href="http://lifesciencedb.jp/bp3d/?lng=en">‘anatomography’ program</a>, which can be used to browse the database and produce viewable subsets for visualisation, as well as the <a href="http://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html">database of body parts itself</a>. The body parts are in the OBJ format, which I know little about but seems straightforward enough, and there are two resolutions available.</p><p>Using the low-resolution models, I've imported the bones of the model into Matlab using Dirk-Jan Kroon's <a href="http://www.mathworks.com.au/matlabcentral/fileexchange/27982-wavefront-obj-toolbox">Wavefront OBJ toolbox</a>; the results are shown below. I'll tidy up the code and make it public as soon as I can; a few things on my plate before I can do this, however.</p><p>Long term, I'd like to make the skeleton move and use the anthropometric data to annotate tendon attachments and insertions on the skeleton to start producing an anatomically correct dynamic simulation of human motion. I know this is being done by <a href="http://opensim.stanford.edu">OpenSim</a> already and it would be counterproductive to re-invent the wheel, but there is still some scope for some orthogonal research in this area.</p>
+
+<img src="matlab-skeleton.png" />
