@@ -44,7 +44,7 @@ even have nice row and column headings. (Okay, I haven't shown a big mix of data
 but trust me that it's more robust. It does seem like each column must be one data type, however.)
 Accessing data in a `table` can be done in various
 ways, for example: `T.Mass` gives an array of the mass column; `T{:,{'Mass','COM'}}`
-extracts two columns; .`T{{'arm'},{'COM'}}` extracts that one value; and so on.
+extracts two columns; `T{``{'arm'}, {'COM'}``}` (or just `T{4,3}`) extracts that one value; and so on.
 
 Having in-built metadata like this allows a number of powerful set-like operations
 to be performed on tables, with new functions such as `intersect`, `setdiff`, and
@@ -162,3 +162,4 @@ may well have already changed and will soon.
 I quite like the `table` data structure, but I feel (based on experiences like
 this) that it's a little rough around the edges. Or perhaps I simply haven't
 internalised its proper use cases yet, and I'm the weird one. Very possible.
+
