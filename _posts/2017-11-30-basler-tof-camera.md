@@ -36,7 +36,7 @@ For industrial purposes where a depth camera is used in a larger industrial sett
 the Basler ToF Camera is more the suitable; as I mentioned above, I found it a very robust
 and useable piece of hardware.
 
-<img src="scan-cmp-Data-Body.png" />
+<a href="scan-cmp-Data-Body.png"><img src="scan-cmp-Data-Body.png" /></a>
 
 For our projects around scanning the human body, the search for our next depth camera continues.
 
