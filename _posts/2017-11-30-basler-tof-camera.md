@@ -23,7 +23,8 @@ I recently had the chance to borrow a Basler camera for a test run, and I was su
 
 The Basler ToF Camera was nicer in every respect than the Kinect v2 in terms of its ruggedness,
 interface options, customisation, programmability, and so on.
-But a like-for-like comparison against the Kinect v2 showed far inferior point cloud quality.
+But a like-for-like comparison against the Kinect v2 showed far inferior point cloud quality
+when using its default settings.
 
 At a distance of around 1.5m, I sat on a stool and took images of myself with the standard
 settings with both the Kinect v2 and the Basler ToF Camera.
