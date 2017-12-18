@@ -7,6 +7,8 @@ date:   2017-12-18 12:30:29 +0930
 A non-exhaustive collection of resources on using computational methods in engineering.
 Aspirational in the sense that I think this is an area I would like to teach a course in one day.
 
+## Python
+
 * [Course syllabus for Engineering Computations](https://doi.org/10.6084/m9.figshare.5709748.v1)
   (MAE 2117, George Washington University)
   by [Lorena A. Barba](https://twitter.com/LorenaABarba)
