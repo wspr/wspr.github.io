@@ -14,3 +14,5 @@ Aspirational in the sense that I think this is an area I would like to teach a c
 * [Lectures on scientific computing using Python](https://github.com/jrjohansson/scientific-python-lectures)
   by [J. Robert Johansson](http://jrjohansson.github.io/)
 
+* [Programming for Data Science](https://nyu-cds.github.io/courses/) (NYU) by Dr. Gregory Watson.
+  [Source available.](https://github.com/nyu-cds/courses/tree/master)
