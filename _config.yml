@@ -9,12 +9,11 @@
 title: WSPR.IO
 email: will@wspr.io
 description: > # this means to ignore newlines until "baseurl:"
-  Irreverence by William Samuel Parker Robertson.
-  Wannabe academic in engineering (magnetic levitation, vibration control, mechatronics, biomechanics).
+  By William Samuel Parker Robertson.
+  Academic in engineering (magnetic levitation, vibration control, mechatronics, biomechanics).
   Member of the LaTeX3 Project.
-  On his way to becoming a grown-up.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://wspr.io" # the base hostname & protocol for your site
+url: "https://wspr.io" # the base hostname & protocol for your site
 twitter_username: wspr
 github_username:  wspr
 
