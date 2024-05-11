@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Howto Python with forked sankey package"
+title:  "Howto Python with forked sankey package"
 date:   2024-05-11 20:21:23 +0930
 categories: python 
 ---
@@ -11,7 +11,7 @@ https://github.com/AUMAG/ausankey
 
 This package draws so-called Stanley diagrams like this:
 
-<img src=“../img/ausankey.png” />
+<img src="../img/ausankey.png" />
 
 Compared to what I’m familiar with (mostly Matlab and Lua), it’s been interesting to see what is similar and what is different. I like the OOP approach and the broad set of datatypes that Python and modules like NumPy and Pandas provides. On the hand, there is a lot to wrap your head around in the Python ecosystem, and the complexity of having different approaches (and even competing approaches) adds some mental overhead for a beginner. 
 
