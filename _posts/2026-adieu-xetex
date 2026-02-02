@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Adieu XeTeX"
+date:   2026-02-02
+categories: tex
+---
+
+Many years back I switched my default LaTeX compiler from pdfLaTeX to XeLaTeX for two reasons: 
+
+* Eating my own dogfood
+* Living in the future
+
+I was writing exciting LaTeX code that used the expl3 programming language by the LaTeX3 team, and using OpenType fonts in earnest for my documents. I wanted to make sure that the code I was writing I was also exercising in my otherwise day-to-day LaTeX use.
+I also wanted to leave the 8-bit era behind — there are only so many times you have patience when losing accents or special characters and working through the vagaries of LaTeX2e's input and output encodings — which were brilliant but their day was long past.
+
+As time went by, the newcomer LuaTeX overtook XeTeX as the modern engine of choice, but out of habit I kept XeLaTeX as my default compiler.
+In the early days it was a bit faster (maybe still is, but computers are so much faster now it matters less), and was also more stable. 
+More realistically, it's been such a hectic decade at this point that not only my LaTeX programming ground to a halt but my actual day-to-day usage of it also slowed down.
+(I have been using Microsoft Word more than I care to admit — it is surprisingly good for collaborative editing, and I can produce documents with passable layout with enough elbow grease. But gosh I dislike so many things about it.)
+
+I am rambling. In the last several years, the LaTeX3 Team (present company excepted) have been working on the ‘[Tagged PDF](https://latex3.github.io/tagging-project/documentation/wtpdf/larger-example)’ project to produce accessible PDFs.
+For extremely technical reasons, it is only possible to produce these properly in LuaLaTeX, as LuaTeX provides far more ability to manipulate the content stream of the PDF as it is being written.
+Time has also passed, and what was once LuaTeX, the fast-moving newcomer, is now LuaTeX, the well-tested and stable modern TeX engine.
+
+The official stance of the LaTeX3 team since Nov 2024 has been to [shift development focus exclusively to LuaLaTeX](https://www.latex-project.org/news/latex2e-news/ltnews40.pdf) — advising users to migrate their XeLaTeX documents when possible to make best use of new developments.
+Even if one does not technically need accessible and tagged PDFs, they are going to become the norm sooner rather than later.
+The time for holding onto pdfLaTeX and XeLaTeX for romantic old time's sake is past.
+
+I expect that LaTeX2e will continue to support the legacy engines indefinitely, but I also expect to see a definitive delineation in future development efforts (by the entire LaTeX community).
+
+I have finally, yet optimistically, changed the default in my LaTeX editor to compile all documents with LuaLaTeX from now on. I'm excited for what feels like a new chapter in the 30+ years of LaTeX's life.
